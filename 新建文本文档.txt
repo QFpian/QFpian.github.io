@@ -1,0 +1,63 @@
+https://github.com/romkatv/nerd-fonts		romkatv/nerd-fonts
+
+romkatv/nerd-fonts 库 中需要的 字体路径
+nerd-fonts/patched-fonts/Hack/Regular/complete/Hack Regular Nerd Font Complete.ttf
+
+
+
+
+
+
+
+
+
+在 wsl （Windows 的 Linux 子系统）中，我们可以访问如下路径，就可以看到 Windows 下的文件：
+
+/mnt/c  # C:盘
+/mnt/d  # D:盘
+1
+2
+如果要在 Windows 访问 wsl 的文件，则在 wsl 中输入：
+
+explorer.exe .
+
+
+
+
+
+在终端中输入 p10k configure  可打开Powerlevel10k 配置导航
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
